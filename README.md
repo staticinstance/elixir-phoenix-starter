@@ -1,4 +1,4 @@
-# HelloPhoenix
+# elixir-phoenix-starter
 
 To start your Phoenix app:
 
@@ -18,3 +18,4 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: http://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+
